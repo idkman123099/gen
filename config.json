@@ -1,6 +1,6 @@
 {
     "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
     "locale" : "es-AR",
-    "proxies" : "",
+    "proxies" : "87.248.131.81:50100",
     "postal_code" : "3749",
     "full_bin" : "423669000243xxxx|07|2026|000"}
